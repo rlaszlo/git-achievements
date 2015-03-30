@@ -2,6 +2,15 @@
 <title>ratskol's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
+<item><title>Apprentice Chimney Sweeper (Level 3)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
+<item><title>Presenter (Level 5)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
+<item><title>Presenter (Level 4)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
+<item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
+<item><title>Miller (Level 5)</title><description>Add only part of a file to the stage 594 times with git add -p.</description></item>
+<item><title>Apprentice Chimney Sweeper (Level 2)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
+<item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Apprentice Presenter (Level 3)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Master Historian (Level 7)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
@@ -13,13 +22,4 @@
 <item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Seamstress (Level 4)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Collector (Level 4)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Master Stone Mason (Level 8)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Product Manager (Level 3)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Miller (Level 4)</title><description>Add only part of a file to the stage 194 times with git add -p.</description></item>
-<item><title>Apprentice Product Manager (Level 2)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Historian (Level 5)</title><description>Investigate the commit log using git log.</description></item>
 </channel></rss>
